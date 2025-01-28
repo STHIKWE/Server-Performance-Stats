@@ -48,11 +48,11 @@ Failed Login Attempts: Checks for failed login attempts by searching the /var/lo
 
 
 
-Save the script as **server-stats.sh**.
+Save the script as **./server-perf-Analyzer.sh**.
 
 
 
-Make the script executable - **chmod +x server-stats.sh**
+Make the script executable - **chmod +x ./server-perf-Analyzer.sh**
 
 
 
@@ -61,5 +61,5 @@ Run using : ./server-perf-Analyzer.sh
 
 
 
-
-URL:https://github.com/STHIKWE/Server-Performance-Stats.git
+Project URL : https://roadmap.sh/projects/server-stats
+URL:https://github.com/STHIKWE/Server-Performance-Stats
